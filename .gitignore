@@ -1,0 +1,35 @@
+# Dependencies
+node_modules/
+frontend/node_modules/
+
+# Python
+backend/venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment variables (API keys!)
+.env
+backend/.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build outputs
+frontend/dist/
+frontend/build/
+
+# Test files
+backend/test_*.py
+
+# Logs
+*.log
+npm-debug.log*
+
+# API keys file
+api keys.txt
