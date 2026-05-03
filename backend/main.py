@@ -53,6 +53,7 @@ app.add_middleware(
         "http://localhost:3000",  # Alternative dev port
         "http://127.0.0.1:5173",
         "http://127.0.0.1:3000",
+        "https://triage-ai-frontend.onrender.com", # Live frontend URL
     ],
     allow_credentials=True,
     allow_methods=["*"],
