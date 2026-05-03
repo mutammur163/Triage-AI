@@ -1,0 +1,11 @@
+api keys
+
+1.Groq
+key- YOUR_GROQ_API_KEY_HERE
+
+2.gemini
+kay- YOUR_GEMINI_API_KEY_HERE
+
+3.openrouter
+key- YOUR_OPENROUTER_API_KEY_HERE
+
